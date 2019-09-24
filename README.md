@@ -1,4 +1,4 @@
-# flutter_tut_app
+# flutter startup name generator
 
 A new Flutter project.
 
